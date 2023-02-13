@@ -1,4 +1,4 @@
-# Weather-Dataset
+# Weather-Dataset-Analysis:
 This project was created as part of Machine Learning Course at BZU. After completing the analysis of the Weather Data provided, the results can be found in the document provided. Based on the analysis conclusions were found that will better decision making concerning the weather if it will rain tomorrow or not. 
 
 # Conclusions

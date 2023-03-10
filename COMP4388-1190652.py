@@ -1,6 +1,6 @@
 """" Project 2 for Machine Learning Course by Dr. Radi Jarrar, 
      Classification task for Weather Dataset 
-     Sondos Aabed 1190652 """
+     Sondos Aabed """
 
 #Import necessary libraries 
 import pandas as pd
